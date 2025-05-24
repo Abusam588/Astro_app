@@ -13,8 +13,10 @@
 ---
 
 ## صور من التطبيق
-https://raw.githubusercontent.com/Abusam588/Astro_app/main/assets/banner-example.png
 
+## صور من التطبيق
+
+<img src="https://raw.githubusercontent.com/Abusam588/Astro_app/main/assets/banner-example.png" width="100%" alt="واجهة التطبيق" />
 ## التقنيات المستخدمة
 
 - React Native + Expo
