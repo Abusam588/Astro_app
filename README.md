@@ -14,7 +14,7 @@
 
 ## صور من التطبيق
 
-![صورة توضيحية](https://github.com/Abusam588/Astro_app/assets/banner-example.png)
+![https://raw.githubusercontent.com/Abusam588/Astro_app/main/astro_app](https://github.com/Abusam588/Astro_app/assets/banner-example.png)
 
 ---
 
