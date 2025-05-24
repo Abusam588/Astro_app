@@ -13,13 +13,7 @@
 ---
 
 ## صور من التطبيق
-
-## صور من التطبيق
-
-<img src="https://raw.githubusercontent.com/Abusam588/Astro_app/main/app-preview.png" width="100%" alt="معاينة تطبيق التوقعات الفلكية" />
-(https://github.com/Abusam588/Astro_app/assets/banner-example.png)
-
----
+https://raw.githubusercontent.com/Abusam588/Astro_app/main/assets/banner-example.png
 
 ## التقنيات المستخدمة
 
